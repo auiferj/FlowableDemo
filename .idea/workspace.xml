@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97e60653-d5f4-4676-bccb-6dc1dece230b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.3.0/flowable-engine-6.3.0-sources.jar!/org/flowable/engine/ProcessEngine.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.3.0/flowable-engine-6.3.0-sources.jar!/org/flowable/engine/ProcessEngineConfiguration.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.3.0/flowable-engine-6.3.0-sources.jar!/org/flowable/engine/impl/ProcessEngineImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.3.0/flowable-engine-6.3.0-sources.jar!/org/flowable/engine/impl/cfg/ProcessEngineConfigurationImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.3.0/flowable-engine-6.3.0-sources.jar!/org/flowable/engine/impl/util/TaskHelper.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/flowable/flowable-identitylink-service/6.3.0/flowable-identitylink-service-6.3.0.jar!/org/flowable/identitylink/service/IdentityLinkType.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2GVxZOlZurofDWCZAjizN6T0sIs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ProcessEngineTest.processEngine02.executor": "Run",
+    "JUnit.ProcessEngineTest.processEngine03.executor": "Run",
+    "JUnit.Test03.testCompleteTask.executor": "Run",
+    "JUnit.Test03.testDeploy.executor": "Run",
+    "JUnit.Test03.testHistory.executor": "Run",
+    "JUnit.Test03.testRunProcess.executor": "Run",
+    "JUnit.Test04.testCompleteTask.executor": "Debug",
+    "JUnit.Test04.testRunProcess.executor": "Run",
+    "JUnit.Test05.testCompleteTask.executor": "Run",
+    "JUnit.Test05.testDeploy.executor": "Run",
+    "JUnit.Test05.testRun.executor": "Run",
+    "JUnit.Test06.testCompleteTask.executor": "Run",
+    "JUnit.Test06.testDeploy.executor": "Run",
+    "JUnit.Test06.testRun.executor": "Run",
+    "JUnit.Test07.completeTask.executor": "Run",
+    "JUnit.Test07.completeTaskLisi.executor": "Run",
+    "JUnit.Test07.deploy.executor": "Run",
+    "JUnit.Test07.runProcess.executor": "Run",
+    "JUnit.Test07.updateVariable.executor": "Run",
+    "JUnit.Test08.claimTaskCandidate.executor": "Run",
+    "JUnit.Test08.deploy.executor": "Run",
+    "JUnit.Test08.queryTaskCandidate.executor": "Run",
+    "JUnit.Test08.runProcess.executor": "Run",
+    "JUnit.Test08.taskCandidate.executor": "Run",
+    "JUnit.Test08.unClaimTaskCandidate.executor": "Run",
+    "JUnit.Test09.createGroup.executor": "Run",
+    "JUnit.Test09.createUser.executor": "Run",
+    "JUnit.Test09.userGroup.executor": "Run",
+    "JUnit.Test10.claimTaskCandidate.executor": "Run",
+    "JUnit.Test10.completeTask.executor": "Run",
+    "JUnit.Test10.deploy.executor": "Run",
+    "JUnit.Test10.runProcess.executor": "Run",
+    "JUnit.Test11.completeTask.executor": "Run",
+    "JUnit.Test11.deploy.executor": "Run",
+    "JUnit.Test11.runProcess.executor": "Run",
+    "JUnit.Test11.setVariables.executor": "Run",
+    "JUnit.Test12.completeTask.executor": "Run",
+    "JUnit.Test12.completeTaskLisi.executor": "Run",
+    "JUnit.Test12.completeTaskWangWu.executor": "Run",
+    "JUnit.Test12.deploy.executor": "Run",
+    "JUnit.Test12.runProcess.executor": "Run",
+    "JUnit.Test13.completeTask.executor": "Run",
+    "JUnit.Test13.completeTaskI1.executor": "Run",
+    "JUnit.Test13.completeTaskI2.executor": "Run",
+    "JUnit.Test13.deploy.executor": "Run",
+    "JUnit.Test13.runProcess.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Program Files (x86)/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspacet\flowable\FlowableDemo\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bobo.flowable.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Test13.completeTaskI2">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test13.completeTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FlowableDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bobo.flowable.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bobo.flowable.test" />
+      <option name="MAIN_CLASS_NAME" value="com.bobo.flowable.test.Test13" />
+      <option name="METHOD_NAME" value="completeTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test13.completeTaskI1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FlowableDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bobo.flowable.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bobo.flowable.test" />
+      <option name="MAIN_CLASS_NAME" value="com.bobo.flowable.test.Test13" />
+      <option name="METHOD_NAME" value="completeTaskI1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test13.completeTaskI2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FlowableDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bobo.flowable.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bobo.flowable.test" />
+      <option name="MAIN_CLASS_NAME" value="com.bobo.flowable.test.Test13" />
+      <option name="METHOD_NAME" value="completeTaskI2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test13.deploy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FlowableDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bobo.flowable.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bobo.flowable.test" />
+      <option name="MAIN_CLASS_NAME" value="com.bobo.flowable.test.Test13" />
+      <option name="METHOD_NAME" value="deploy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test13.runProcess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FlowableDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bobo.flowable.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bobo.flowable.test" />
+      <option name="MAIN_CLASS_NAME" value="com.bobo.flowable.test.Test13" />
+      <option name="METHOD_NAME" value="runProcess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test13.completeTaskI2" />
+        <item itemvalue="JUnit.Test13.completeTaskI1" />
+        <item itemvalue="JUnit.Test13.completeTask" />
+        <item itemvalue="JUnit.Test13.runProcess" />
+        <item itemvalue="JUnit.Test13.deploy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97e60653-d5f4-4676-bccb-6dc1dece230b" name="Default Changelist" comment="" />
+      <created>1666487613455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666487613455</updated>
+      <workItem from="1666487614776" duration="7958000" />
+      <workItem from="1670660157914" duration="29000" />
+      <workItem from="1670660233463" duration="5167000" />
+      <workItem from="1691920531498" duration="20000" />
+      <workItem from="1691920588421" duration="784000" />
+      <workItem from="1700922867007" duration="1786000" />
+      <workItem from="1700924748201" duration="877000" />
+      <workItem from="1701010593085" duration="17000" />
+      <workItem from="1701093144979" duration="1364000" />
+      <workItem from="1701180240570" duration="1237000" />
+      <workItem from="1701265349024" duration="1221000" />
+      <workItem from="1701440638718" duration="1573000" />
+      <workItem from="1701781200829" duration="2349000" />
+      <workItem from="1701869470142" duration="2476000" />
+      <workItem from="1702388662805" duration="800000" />
+      <workItem from="1702701488170" duration="1594000" />
+      <workItem from="1702703461200" duration="2637000" />
+      <workItem from="1702720712753" duration="6456000" />
+      <workItem from="1715781139420" duration="2684000" />
+      <workItem from="1715952606947" duration="2807000" />
+      <workItem from="1716018675648" duration="4633000" />
+      <workItem from="1716077658440" duration="2709000" />
+      <workItem from="1716089594799" duration="7243000" />
+      <workItem from="1716208387835" duration="3376000" />
+      <workItem from="1716298143711" duration="594000" />
+      <workItem from="1716387923732" duration="122000" />
+      <workItem from="1716727494807" duration="4414000" />
+      <workItem from="1716819184511" duration="2392000" />
+      <workItem from="1717929437413" duration="19278000" />
+      <workItem from="1718505039770" duration="408000" />
+      <workItem from="1718509718278" duration="11126000" />
+      <workItem from="1722900059724" duration="1043000" />
+      <workItem from="1724337020103" duration="1221000" />
+      <workItem from="1726753835269" duration="3083000" />
+      <workItem from="1728654089727" duration="1084000" />
+      <workItem from="1728739440609" duration="3360000" />
+      <workItem from="1732088203002" duration="1970000" />
+      <workItem from="1734960242413" duration="1730000" />
+      <workItem from="1735569080062" duration="3856000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
